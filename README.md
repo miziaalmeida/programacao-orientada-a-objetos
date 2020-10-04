@@ -34,14 +34,14 @@ A fábrica também falou que, no momento que terminarem de vender todo estoque, 
 
 **Teste de mesa:**
 - tem 50
-* se vende 1 fica com 49
+- - se vende 1 fica com 49
 - tem 49
-* se vende 5 fica com 44
+- - se vende 5 fica com 44
 * ganha 1 da fábrica
-- tem 45
+- - tem 45
 * vende 44 fica com 1
 * ganha 1 da fábrica
-- tem 2
+- - tem 2
 * vende 2 fica com 0
 * ganha 2 da fábrica
-- tem 2
+- - tem 2
